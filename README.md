@@ -74,7 +74,7 @@ src/
 - **CSS personalizado** — Sistema de diseño corporativo URJC (sin dependencias adicionales)
 - **Google Fonts** — DM Sans + DM Mono
 
-> ⚠️ Este es un **prototipo evolutivo** con datos simulados. La integración real con el SSO de la URJC y la API LumenConnect requeriría credenciales y configuración de backend adicional.
+>  Este es un **prototipo evolutivo** con datos simulados. La integración real con el SSO de la URJC y la API LumenConnect requeriría credenciales y configuración de backend adicional.
 
 ---
 
