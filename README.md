@@ -1,4 +1,4 @@
-# 🛤️ Senda URJC — Prototipo Evolutivo
+#  Senda URJC — Prototipo Evolutivo
 
 Prototipo de la aplicación móvil **Senda URJC**, desarrollado como parte de la práctica de Análisis e Ingeniería de Requisitos (Grado en Ingeniería del Software, URJC, Curso 2025/26 — Grupo 12).
 
